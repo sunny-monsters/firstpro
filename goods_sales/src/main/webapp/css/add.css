@@ -1,0 +1,30 @@
+div.form_css {
+    position: relative;
+    width: 450px;
+    height: 500px;
+    margin: 100px auto;
+    padding-top: 40px;
+    text-align: center;
+    background-color: #F7F7F7;
+    border-radius: 10px;
+}
+.layui-form {
+    margin-top: 30px;
+}
+.layui-form-item {
+    padding-bottom: 15px;
+}
+.form_css .layui-form-item input{
+    width: 250px;
+}
+.form_css .btn .layui-btn {
+    width: 150px;
+    height: 50px;
+    margin: 30px;
+}
+.form_css .cancel {
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: #ad5736;
+}
